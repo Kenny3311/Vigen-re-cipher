@@ -1,7 +1,7 @@
 # Vigen-re-cipher
 Just a small project, just for fun
 
-##How to use:  
+## How to use:  
 Upper textbox is for plaintext  
 Lower textbox is for ciphertext  
 Press encryt button to encryt the text in plaintext textbox  
