@@ -10,3 +10,7 @@ Press encryt button to encryt the text in plaintext textbox
 
 Default key location is `key.txt` in `key` folder, you need to press `generate key` for creating it  
 You can select another key by pressing `import key` button
+
+This cipher can encryt characters in ASCII, but not included end of line, new line, tab and other ASCII code which can't normally display
+
+Therefore, if there is multiple lines in plaintext textbox, there will be exact same line in ciphertext and exact same characters in each line
